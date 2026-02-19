@@ -3,7 +3,7 @@
   <img src="https://your-banner-image-url.com/banner.png" alt="Dhananjay Gupta Banner" width="100%" />
 </p> -->
 
-<h1 align="center">Hi 👋, I'm Dhananjay Gupta</h1>
+<h1 align="center">Hi 👋, I'm Saksham Sonic</h1>
 <h3 align="center">I love to talk about DATA • ENGINEERING • ANALYSIS</h3>
 
 ---
